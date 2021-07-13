@@ -1,0 +1,44 @@
+.create-background{
+    
+position: absolute;
+width: 100%;
+height: 360px;
+left: 0px;
+background: #151371;
+}
+.create-task{
+position: absolute;
+width: 1200px;
+height: 336px;
+/* left: 250px; */
+top: 50px;
+background: #FFFFFF;
+mix-blend-mode: normal; 
+border-radius: 0px;
+border-top: 2px solid #FF00B8 ;
+
+}
+
+button{
+position: relative;
+margin-top:-200px!important;
+margin-right:100px!important;
+width: 180px;
+height: 40px;
+color:white;
+background: #FF00B8;
+box-shadow: 2px 4px 8px rgba(250, 216, 216, 0.25);
+border-radius: 6px;
+text-decoration: none;
+overflow: hidden;
+cursor: pointer;
+top:-90px;
+left: 650px;
+
+
+}
+
+/* *******Task details page css ************/
+.task-details{
+
+}

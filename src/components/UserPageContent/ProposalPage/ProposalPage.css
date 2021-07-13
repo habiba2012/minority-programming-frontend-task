@@ -1,0 +1,33 @@
+.user-page-banner{
+    background: rgba(255, 255, 255, 0.8);
+    mix-blend-mode: normal;
+    position: absolute;
+    width: 1100%;
+    height: 400px;
+    margin-left: 324px;
+    top: 184px;
+
+
+}
+
+.proposal-container{
+    position: absolute;
+    width: 1296px;
+    height: 1184px;
+    left: 72px;
+    top: 656px;
+    background: rgba(40, 40, 40, 0.9);
+    mix-blend-mode: normal;
+    border-radius: 30px;
+}
+.proposal-bottom-container{
+    position: absolute;
+width: 100%;
+margin: 50px;
+height: 524px;
+top: 1912px;
+
+background: rgba(40, 40, 40, 0.9);
+mix-blend-mode: normal;
+border-radius: 30px;
+}

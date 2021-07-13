@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "Proposal Title",
+    "type": "Enhancement",
+    "category": "Incubator",
+    "userInfo": "",
+    "buttonText": "Read More",
+    "description": "Details about proposal - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ornare ullamcorper tellus, vel euismod odio posuere ut. Quisque quis lacinia tortor. Donec auctor consectetur nibh, eu varius mi porta nec. Quisque ultricies odio vitae nibh malesuada tristique vel sed leo. Donec egestas, urna eu auctor ultricies, massa lorem pellentesque quam, vitae congue urna quam ultricies ex."
+  }
+]

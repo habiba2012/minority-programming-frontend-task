@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Planned Tasks",
+    "taskHeaderImg": "../../assets/images/Vectortick.png",
+    "description": "Lorem ipsum dolor sit amet, consecte tur adipiscing elit.",
+    "flagImg": "../../assets/images/yellow-flag.png",
+    "date": "May 27",
+    "designImg": "../../assets/images/design.png",
+    "moreImg": "../../assets/images/more-option.png",
+    "develop": "../../assets/images/develop.png"
+  },
+  {
+    "id": 2,
+    "title": "InReview Tasks",
+    "taskHeaderImg": "../../assets/images/Vectortick.png",
+    "description": "Lorem ipsum dolor sit amet, consecte tur adipiscing elit.",
+    "flagImg": "../../assets/images/yellow-flag.png",
+    "date": "May 27",
+    "designImg": "../../assets/images/design.png",
+    "moreImg": "../../assets/images/more-option.png",
+    "develop": "../../assets/images/develop.png"
+  },
+  {
+    "id": 3,
+    "title": "Completed Tasks",
+    "taskHeaderImg": "../../assets/images/Vectortick.png",
+    "description": "Lorem ipsum dolor sit amet, consecte tur adipiscing elit.",
+    "flagImg": "../../assets/images/yellow-flag.png",
+    "date": "May 27",
+    "designImg": "../../assets/images/design.png",
+    "moreImg": "../../assets/images/more-option.png",
+    "develop": "../../assets/images/develop.png"
+  }
+]

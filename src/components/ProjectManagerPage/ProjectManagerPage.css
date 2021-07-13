@@ -1,0 +1,84 @@
+.tasks-banner{
+position: absolute;
+width: 100%;
+height: 400px;
+left: 0px;
+background: #000000;
+margin: auto 0;
+color: white;
+mix-blend-mode: normal;
+}
+
+.banner-text{
+height: 67px;
+width: 792px;
+left: 120px;
+top: 400px;
+border-radius: 0px;
+text-align: center;
+justify-content: center;
+}
+.banner-text h1{
+top: 200px;
+font-weight: bold;
+font-size: 51px;
+line-height: 67px;
+text-transform: uppercase;
+}
+
+.banner-text p{
+width: 792px;
+height: 29px;
+top: 389px;
+font-size: 30px;
+line-height: 97.69%;
+}
+
+.planned-task-container{
+    background:url('../../assets/images/planned-task-rec.png')
+}
+
+.task-background{
+left: 92px;
+top: 550px;
+width: 392px;
+height: 637px;
+background: linear-gradient(180deg, rgba(21, 19, 113, 0.6) 0%, rgba(0, 0, 0, 0.18) 100%);
+border-radius: 10px 10px 30px 10px;
+padding-bottom: 5px;
+}
+
+.card-background{
+background:url('../../assets/images/create-proposal.png');
+width: 180px;
+height: 167px;
+margin-top: 5px;
+
+}
+
+.card-text{
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0.03em;
+text-align: left;
+color:  #151371;
+
+
+}
+
+.header-img{
+    /* background:url('../../assets/images/blue-rec.png'); */
+width: 360px;
+height: 60px;
+margin-left: -18px;
+/* left: 400px; */
+top: 678px;
+color: white;
+text-align: center;
+/* brandpurple */
+
+background: #151371;
+border-radius: 0px 0px 8px 8px;
+}
