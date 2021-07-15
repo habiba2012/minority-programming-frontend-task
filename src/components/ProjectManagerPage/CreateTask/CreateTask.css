@@ -1,11 +1,16 @@
+.container-create-task{
+  height: 100vh; 
+  width: 100%; 
+}
 .create-background{
-    
 position: absolute;
 width: 100%;
 height: 360px;
 left: 0px;
 background: #151371;
 }
+
+
 .create-task{
 position: absolute;
 width: 1200px;
@@ -19,7 +24,7 @@ border-top: 2px solid #FF00B8 ;
 
 }
 
-button{
+.create-button{
 position: relative;
 margin-top:-200px!important;
 margin-right:100px!important;
@@ -41,4 +46,27 @@ left: 650px;
 /* *******Task details page css ************/
 .task-details{
 
+    position: absolute;
+    width: 1200px;
+    height: 736px;
+    margin-top: -480px;
+    background: rgba(255, 255, 255, 0.95);
+    mix-blend-mode: normal;
+    border-radius: 0px;
+    box-shadow: 0 9px 0px 0px white, 0 -9px 0px 0px white, 12px 0 15px -4px  #151371, -12px 0 15px -4px #151371;
+    box-shadow: 2px #151371;
 }
+.task-area{
+     margin-top:-160px;
+ }
+
+.task-status{
+ 
+padding: 30px;
+  text-align: center;
+  width: 1152px;
+  height:  295px;
+  margin-top: 330px;
+  background:rgba(255, 255, 255, 0.6)
+}
+
