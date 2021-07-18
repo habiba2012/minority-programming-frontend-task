@@ -15,18 +15,17 @@
     width: 1296px;
     height: 1184px;
     left: 72px;
-    top: 656px;
+    margin-top: 456px;
     background: rgba(40, 40, 40, 0.9);
     mix-blend-mode: normal;
     border-radius: 30px;
 }
 .proposal-bottom-container{
-    position: absolute;
-width: 100%;
+position: absolute;
+width: 1296px;
 margin: 50px;
 height: 524px;
-top: 1912px;
-
+margin-top: 1912px;
 background: rgba(40, 40, 40, 0.9);
 mix-blend-mode: normal;
 border-radius: 30px;

@@ -5,7 +5,7 @@ import PlannedTask from './PlannedTasks'
 
 const ProjectManagerViewTask = () => {
     return (
-        <div className="">
+        <div className="container-fluid">
 
             <ManagerPageBanner />
             <PlannedTask />

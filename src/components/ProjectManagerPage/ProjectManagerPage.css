@@ -34,9 +34,9 @@ font-size: 30px;
 line-height: 97.69%;
 }
 
-.planned-task-container{
+/* .planned-task-container{
     background:url('../../assets/images/planned-task-rec.png')
-}
+} */
 
 .task-background{
 left: 92px;
@@ -81,4 +81,12 @@ text-align: center;
 
 background: #151371;
 border-radius: 0px 0px 8px 8px;
+}
+
+.card{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-gap: 1rem;
+    background: none;
 }

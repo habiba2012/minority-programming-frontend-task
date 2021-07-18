@@ -1,14 +1,16 @@
 import React from 'react';
 
 import ProposalPageBanner from '../components/UserPageContent/ProposalPage/ProposalPageBanner'
-import FeaturedProposals from '../components/UserPageContent/ProposalPage/ProposalCard'
+import FeaturedProposals from '../components/UserPageContent/ProposalPage/ProposalData'
+import VotedProposal from '../components/UserPageContent/ProposalPage/VotedProposal'
 
 const UserPage = () => {
     return (
-        <div>
+        <div className="container-fluid">
 
             <ProposalPageBanner />
             <FeaturedProposals />
+            <VotedProposal />
 
         </div>
     );

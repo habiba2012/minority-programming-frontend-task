@@ -6,7 +6,7 @@ import ProposalStatus from '../components/ProjectManagerPage/CreateTask/Proposal
 
 const ProjectManagerCreateTask = () => {
     return (
-        <div className="">
+        <div className="container-fluid" >
             <CreateTask />
             <TaskDetails />
             <ProposalStatus />
