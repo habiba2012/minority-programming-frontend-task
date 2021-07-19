@@ -64,7 +64,7 @@ export const SidebarData = [
     {
         title: "Create Proposals",
         icon: "",
-        path: "/",
+        path: "",
         cName: 'nav-text'
 
     },

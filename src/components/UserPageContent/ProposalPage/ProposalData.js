@@ -13,8 +13,8 @@ const MyProposal = () => {
     }, [])
 
     return (
-        <div className="col-sm-12 col-md-8 col-lg-8">
-            <div className="proposal-container p-5 text center ml-auto">
+        <div className="proposal-container p-5 text-center ml-auto">
+            <div className="">
 
                 {myProposal.map(proposal => {
                     return (
@@ -73,7 +73,7 @@ const MyProposal = () => {
                 })}
 
             </div>
-        </div>
+        </div >
     );
 };
 

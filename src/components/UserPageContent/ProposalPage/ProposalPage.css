@@ -14,9 +14,8 @@
     position: absolute;
     width: 1296px;
     height: 1184px;
-    left: 72px;
     margin-top: 456px;
-    background: rgba(40, 40, 40, 0.9);
+    background: rgba(255, 255, 255, 0.897);
     mix-blend-mode: normal;
     border-radius: 30px;
 }

@@ -4,11 +4,11 @@ import ApprovedProposalCard from '../components/UserPageContent//ApprovedProposa
 
 const PmApprovedProposal = () => {
     return (
-        <div className="container-fluid">
+        <div className="container-fluid col-md-12 col-xs-12">
             <div style={{ paddingBottom: "80px" }}>
                 <ApprovedProposalBanner />
             </div>
-            <div style={{ padding: "350px" }}>
+            <div style={{ padding: "350px" }} className="col-md-12 col-xs-12">
                 <ApprovedProposalCard />
             </div>
 

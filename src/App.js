@@ -28,6 +28,9 @@ function App() {
         <BottomNavBar />
         <Switch>
           <Route path="/createProposal">
+            <ProposalPageBanner />
+          </Route>
+          <Route path="/myProposal">
             <UserPage />
           </Route>
           <Route path="/pmApprovedProposal/:id">

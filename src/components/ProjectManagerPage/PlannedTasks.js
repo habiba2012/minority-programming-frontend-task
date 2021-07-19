@@ -15,8 +15,8 @@ import IndividualTask from './IndividualTask';
 const PlannedTasks = () => {
 
     return (
-        <div className="" style={{}}>
-            <div className="d-flex justify-content-around Container-fluid col-sm-12">
+        <div className="Container-fluid" >
+            <div className="d-flex justify-content-around  col-sm-12">
                 {ViewData.map(view => {
                     return (
                         <div className="">
